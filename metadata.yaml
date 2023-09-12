@@ -1,0 +1,38 @@
+_repo: The-Navy-eternal-b-which-is-The-Navy-that-floats-The-Navy-that-flies-and-The-Navy-under-the-s__71548
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Swale, Douglas
+    gutenberg_agent_id: '56279'
+    url: http://www.gutenberg.org/2009/agents/56279
+creator:
+  author:
+    agent_name: Bartimeus
+    aliases:
+    - Ritchie, Lewis Anselm da Costa
+    - Ricci, Lewis Anselm da Costa
+    - Costa Ricci, Lewis Anselm da
+    - Da Costa Ricci, Lewis Anselm
+    birthdate: 1886
+    deathdate: 1967
+    gutenberg_agent_id: '31547'
+    url: http://www.gutenberg.org/2009/agents/31547
+description: ''
+gutenberg_issued: '2023-09-02'
+identifiers:
+  gutenberg: '71548'
+language: en
+pgterms:marc905: 20220526034412bartimeus
+pgterms:marc906: '1918'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bHodder and Stoughton, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Navy eternal : $b which is The Navy-that-floats, The Navy-that-flies and
+  The Navy-under-the-sea'
+url: http://www.gutenberg.org/ebooks/71548
