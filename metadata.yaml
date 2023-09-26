@@ -5,6 +5,9 @@ contributor:
     agent_name: Swale, Douglas
     gutenberg_agent_id: '56279'
     url: http://www.gutenberg.org/2009/agents/56279
+covers:
+- cover_type: archival
+  image_path: 71548-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartimeus
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '31547'
     url: http://www.gutenberg.org/2009/agents/31547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71548#The-Navy-eternal-b-which-is-The-Navy-that-floats-The-Navy-that-flies-and-The-Navy-under-the-s_
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71548'
